@@ -29,6 +29,5 @@ public class Boletin1_4 {
         producto = num1 * num2;
         System.out.println("Suma = " + suma + "\nResta = " + resta + 
                 "\nCociente = " + cociente + "\nProducto = " + producto);
-    }
-    
+    }  
 }
