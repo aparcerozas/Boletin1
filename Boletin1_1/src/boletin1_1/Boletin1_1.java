@@ -21,5 +21,4 @@ public class Boletin1_1 {
         System.out.println("area = " + area);
         System.out.println("Hola mundo");
     }
-    
 }
