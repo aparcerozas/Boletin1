@@ -25,6 +25,5 @@ public class Boletin1_3 {
         cambio = teclado.nextFloat();
         dolares = euros * cambio;
         System.out.println(euros + " euros = " + dolares + " dolares");
-    }
-    
+    }  
 }
