@@ -6,7 +6,6 @@
 package boletin1_5;
 
 import java.util.Scanner;
-
 /**
  *
  * @author aparcerozas
@@ -24,6 +23,5 @@ public class Boletin1_5 {
         millas = teclado.nextFloat();
         metros = millas * 1852;
         System.out.println(millas + " millas = " + metros + " metros");
-    }
-    
+    }   
 }
